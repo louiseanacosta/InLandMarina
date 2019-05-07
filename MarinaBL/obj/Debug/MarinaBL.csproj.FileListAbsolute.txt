@@ -1,0 +1,9 @@
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\bin\Debug\MarinaBL.dll
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\bin\Debug\MarinaBL.pdb
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\bin\Debug\MarinaDL.dll
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\bin\Debug\MarinaDL.pdb
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\obj\Debug\MarinaBL.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\obj\Debug\MarinaBL.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\obj\Debug\MarinaBL.csproj.CopyComplete
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\obj\Debug\MarinaBL.dll
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaBL\obj\Debug\MarinaBL.pdb

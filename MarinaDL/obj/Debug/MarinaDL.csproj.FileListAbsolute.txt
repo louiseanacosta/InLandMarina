@@ -1,0 +1,6 @@
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaDL\bin\Debug\MarinaDL.dll
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaDL\bin\Debug\MarinaDL.pdb
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaDL\obj\Debug\MarinaDL.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaDL\obj\Debug\MarinaDL.dll
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaDL\obj\Debug\MarinaDL.pdb
+C:\Users\louis\source\repos\Acosta_CPRG214_Lab1\MarinaDL\obj\Debug\MarinaDL.csprojAssemblyReference.cache
